@@ -2,4 +2,13 @@
 
 just another repository
 
-I'm just a newbie trying to figure out github
+#include <iostream>
+  
+  using namespace std;
+  
+  int main ()
+{
+  cout << " hello world! "<<endl;
+  
+  return 0:
+  }
